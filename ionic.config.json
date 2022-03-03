@@ -1,0 +1,8 @@
+{
+  "name": "inspiron-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id": "b41f2990"
+}

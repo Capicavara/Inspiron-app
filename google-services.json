@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "64839018389",
+    "firebase_url": "https://inspiron-c6e2f.firebaseio.com",
+    "project_id": "inspiron-c6e2f",
+    "storage_bucket": "inspiron-c6e2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64839018389:android:2185d1f0ac6caa58",
+        "android_client_info": {
+          "package_name": "com.inspiron.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64839018389-20rafeud27hf3pmbk6ta05ib7hv00abf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgNSrbMvvIXu8ZuWSlTynBz3fIj7CWSV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64839018389-20rafeud27hf3pmbk6ta05ib7hv00abf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
